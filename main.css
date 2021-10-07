@@ -1,0 +1,48 @@
+h1{
+	text-align: center;
+}
+body{
+	background-color: #000000;
+}
+a{
+	font-size: 1.3em;
+	text-decoration: none;
+}
+a:link{
+	color: #ffffff;
+
+}
+h1{
+	text-align: center;
+	color: #ffffff;
+}
+a:hover{
+	color: #ffffff;
+}
+.centrado{
+	margin: auto;
+	/* position: absolute;
+	top: 210px;
+	left: 450px; */
+}
+.lobster{
+	font-family: 'Lobster', cursive;
+}
+.retraso1{
+	-webkit-animation-delay:1s;
+	-moz-animation-delay:1s;
+	animation-delay: 1s;
+}
+.retraso2{
+	-webkit-animation-delay:2s;
+	-moz-animation-delay:2s;
+	animation-delay: 2s;
+}
+.redes{
+	position: absolute;
+	top: 315px;
+	left: 1175px;
+}
+.center{
+	margin: auto;
+}
